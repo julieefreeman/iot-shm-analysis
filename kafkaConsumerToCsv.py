@@ -22,12 +22,12 @@ def parseData(data):
     sampling_freq = json_data['samplingFreq']
     sensor_id = json_data['sensorId']
     reading_type = json_data['readingType']
-    mags = json_data['fftMags']
+    mags = json_data['fftMags'].tolist()
     fft_size = json_data['fftSize']
     output = str(sampling_freq) + ", " + str(sensor_id) + ", " + str(reading_type) + ", " + str(fft_size) + ", "
-    for(x in mags):
+    for x in mags:
         output += x + ", "
-    return output[:-2]]
+    return output[:-2]
 
 def writeData(outfile, parsed):
     f.write(parsed + "\n")
@@ -41,5 +41,5 @@ def main():
     conn.close()
     f.close()
 
-if(__name__ == "__main__")
+if(__name__ == "__main__"):
     main()
