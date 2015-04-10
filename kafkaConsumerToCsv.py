@@ -7,12 +7,6 @@ client = KafkaClient("ip-172-31-28-55.ec2.internal:6667")
 consumer = KafkaConsumer("shm", metadata_broker_list=['ip-172-31-28-55.ec2.internal:6667'])
 #consumer = KafkaConsumer("shm", metadata_broker_list=['ip-172-31-28-55.ec2.internal:6667'])
 
-conn = mysql.connector.connect(user='iotshm', password='pa$$word',
-                               host='iotshm-data.ck3sx5qm0blx.us-west-2.rds.amazonaws.com',
-                               database='iotshm')
-
-cursor = conn.cursor()
-
 def getData():	
 	data = consumer.next().value
 	return data
@@ -38,7 +32,6 @@ def main():
         data = getData()
         parsed=parseData(data)
         writeData(f, parsed)
-    conn.close()
     f.close()
 
 if(__name__ == "__main__"):
