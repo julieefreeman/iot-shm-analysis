@@ -32,15 +32,17 @@ def main():
     f = open('json_class3.csv', 'w')
     start = datetime.datetime.now().time()
     x = 0
-    while (x < 15):
+    while (x < 32400):
         data = getData()
-        print(data)
+        #print(data)
         parsed=parseData(data)
-        print(parsed)
+        #print(parsed)
         writeData(f, parsed)
-        print(parsed)
+        #print(parsed)
         x+=1
-        print(parsed)
+        if x%30==0:
+            print(x)
+            print(parsed)
     f.close()
 
 if(__name__ == "__main__"):
