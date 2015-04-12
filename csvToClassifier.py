@@ -27,18 +27,18 @@ def main():
             freq_array=makeFreqArray(int(fft_size),int(sampling_freq))
             mags.shape = (31,1)
             freq_mag_array=np.hstack((freq_array,mags))
-            if sensor_id==' 00-13-a2-00-40-a1-f1-43' and reading_type=='0':
-                print(row[36])
-                if sensor_id not in d:
-                    d[sensor_id]={}
-                    print(sensor_id)
-                if reading_type not in d[sensor_id]:
-                    d[sensor_id][reading_type]=freq_mag_array
-                    print(reading_type)
-                else:
-                    d[sensor_id][reading_type] = np.vstack((d[sensor_id][reading_type], freq_mag_array))
-                    #    d[sensor_id][reading_type].concatenate(freq_mag_array)
-                    #d[sensor_id][reading_type] = np.vstack(d[sensor_id][reading_type],freq_mag_array)
+                #if sensor_id=='00-13-a2-00-40-a1-f1-43' and reading_type=='0':
+            print(row[36])
+            if sensor_id not in d:
+                d[sensor_id]={}
+                print(sensor_id)
+            if reading_type not in d[sensor_id]:
+                d[sensor_id][reading_type]=freq_mag_array
+                print(reading_type)
+            else:
+                d[sensor_id][reading_type] = np.vstack((d[sensor_id][reading_type], freq_mag_array))
+                #    d[sensor_id][reading_type].concatenate(freq_mag_array)
+                #d[sensor_id][reading_type] = np.vstack(d[sensor_id][reading_type],freq_mag_array)
         for sensor in d:
             for axis in d[sensor]:
                 classifier_array=d[sensor][axis]
