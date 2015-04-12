@@ -20,14 +20,14 @@ def main():
         for row in reader:
             nprow=np.array(row)
             mags=nprow[5:len(nprow)-1]
-            sensor_id=row[1]
+            sensor_id=row[1].replace(' ','')
             reading_type=row[2]
             sampling_freq=nprow[0]
             fft_size=nprow[3]
             freq_array=makeFreqArray(int(fft_size),int(sampling_freq))
             mags.shape = (31,1)
             freq_mag_array=np.hstack((freq_array,mags))
-            if sensor_id==' 00-13-a2-00-40-a1-ee-d3' and reading_type=='2':
+            if sensor_id==' 00-13-a2-00-40-a1-f1-43' and reading_type=='0':
                 print(row[36])
                 if sensor_id not in d:
                     d[sensor_id]={}
