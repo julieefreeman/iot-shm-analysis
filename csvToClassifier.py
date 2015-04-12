@@ -14,7 +14,7 @@ def makeFreqArray(fft_size,fs):
 
 def main():
     d={}
-    with open('json_class3.csv', 'rt') as f:
+    with open('json_class3.csv', 'rU') as f:
         print('opening csv')
         reader=csv.reader(f)
         for row in reader:
