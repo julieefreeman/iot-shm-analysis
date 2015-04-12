@@ -14,13 +14,12 @@ def makeFreqArray(fft_size,fs):
 
 def main():
     d={}
-    with open('json_class5.csv', 'rt') as f:
+    with open('json_class3.csv', 'rt') as f:
         print('opening csv')
         reader=csv.reader(f)
         for row in reader:
             nprow=np.array(row)
             mags=nprow[5:len(nprow)-1]
-            print(row[36])
             sensor_id=row[1]
             reading_type=row[2]
             sampling_freq=nprow[0]
@@ -28,14 +27,16 @@ def main():
             freq_array=makeFreqArray(int(fft_size),int(sampling_freq))
             mags.shape = (31,1)
             freq_mag_array=np.hstack((freq_array,mags))
-            if sensor_id not in d:
-                d[sensor_id]={}
-                print(sensor_id)
-            if reading_type not in d[sensor_id]:
-                d[sensor_id][reading_type]=freq_mag_array
-                print(reading_type)
-            else:
-                d[sensor_id][reading_type] = np.vstack((d[sensor_id][reading_type], freq_mag_array))
+            if sensor_id==' 00-13-a2-00-40-a1-ee-d3' and reading_type=='0':
+                print(row[36])
+                if sensor_id not in d:
+                    d[sensor_id]={}
+                    print(sensor_id)
+                if reading_type not in d[sensor_id]:
+                    d[sensor_id][reading_type]=freq_mag_array
+                    print(reading_type)
+                else:
+                    d[sensor_id][reading_type] = np.vstack((d[sensor_id][reading_type], freq_mag_array))
                     #    d[sensor_id][reading_type].concatenate(freq_mag_array)
                     #d[sensor_id][reading_type] = np.vstack(d[sensor_id][reading_type],freq_mag_array)
         for sensor in d:
