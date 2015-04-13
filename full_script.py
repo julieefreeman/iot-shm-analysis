@@ -10,7 +10,6 @@ import mysql.connector
 from datetime import datetime
 
 import json
-import uuid
 
 
 client = KafkaClient("ip-172-31-28-55.ec2.internal:6667")
@@ -23,10 +22,14 @@ conn = mysql.connector.connect(user='iotshm', password='pa$$word',
 
 cursor = conn.cursor()
 
-add_health = ("""INSERT INTO iotshm.Health VALUES (%s, %s, %s, %s)""")
-add_magnitude = ("""INSERT INTO iotshm.Magnitude VALUES(%s, %s, %s, %s, %s, %s)""")
+#add_health = ("""INSERT IGNORE INTO iotshm.Health (sensor_id, timestamp, reading_type, healthy) VALUES (%s, %s, %s, %s)""")
+add_magnitude = ("""INSERT IGNORE INTO iotshm.Magnitude (frequency, sensor_id, magnitude, reading_type, timestamp, healthy) VALUES(%s, %s, %s, %s, %s, %s)""")
 
-clf = joblib.load('xClf.pkl')
+
+# TODO add new classifier files and change file names
+x_clf = joblib.load('xClf.pkl')
+y_clf = joblib.load('xClf.pkl')
+z_clf = joblib.load('xClf.pkl')
 
 
 def getData():	
@@ -57,29 +60,36 @@ def analyzeData(data):
 #	print(freq_array)
 #	print(mags_array)
 	
-	pred_x = clf.predict(np.hstack((freq_array, mags_array)))
+	if reading_type == 0:
+		pred = x_clf.predict(np.hstack((freq_array, mags_array)))
+	elif reading_type == 1:
+		pred = y_clf.predict(np.hstack((freq_array, mags_array)))
+	elif reading_type == 2:
+		pred = z_clf.predict(np.hstack((freq_array, mags_array)))
 
-	unhealthy = -1 in pred_x.tolist()
+	
+	unhealthy = -1 in pred.tolist()
 
-	data_health = (sensor_id, time, reading_type, not unhealthy)
-	cursor.execute(add_health, data_health)
+	mags_list = [x[0] for x in mags_array.tolist()]
+	freq_list = [x[0] for x in freq_array.tolist()]
 
-	mags_list = mags_array.tolist()
-	freq_list = freq_array.tolist()
+	#for i in range(0, len(mags_list)):
+	
+	data_magnitude = (str(freq_list)[1:-1], sensor_id, str(mags_list)[1:-1], reading_type, time, not unhealthy)
+    	cursor.execute(add_magnitude, data_magnitude)
 
-	for i in range(0, len(mags_list)):
-		data_magnitude = (freq_list[i][0], sensor_id, mags_list[i][0], reading_type, time, str(uuid.uuid4()))
-    		cursor.execute(add_magnitude, data_magnitude)
+        #data_health = (sensor_id, time, reading_type, not unhealthy)
+        #cursor.execute(add_health, data_health)
     
-    	conn.commit()
-	print("data analyzed!")
-    	return
+   	conn.commit()
+	
+    	return "sensor_id: " + str(sensor_id) + "\ntime: " + str(time) + "\nreading_type: " + str(reading_type) + "\nmags:  " + str(mags_list) + "\n"
 
 
 
 while (True):
 	data = getData()
-    	analyzeData(data)
+    	print(analyzeData(data))
 
 
 conn.close()
