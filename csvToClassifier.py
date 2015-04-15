@@ -25,7 +25,7 @@ def main():
             sampling_freq=nprow[0]
             fft_size=nprow[3]
             freq_array=makeFreqArray(int(fft_size),int(sampling_freq))
-            mags.shape = (31,1)
+            mags.shape = (63,1)
             freq_mag_array=np.hstack((freq_array,mags))
             if sensor_id not in d:
                 d[sensor_id]={}

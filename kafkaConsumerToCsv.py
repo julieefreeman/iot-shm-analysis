@@ -20,10 +20,10 @@ def parseData(data):
     reading_type = json_data['readingType']
     mags = json_data['fftMags']
     fft_size = json_data['fftSize']
-    output = str(sampling_freq) + ", " + str(sensor_id) + ", " + str(reading_type) + ", " + str(fft_size) + ", "
+    output = str(sampling_freq) + "," + str(sensor_id) + "," + str(reading_type) + "," + str(fft_size) + ","
     for x in mags:
-        output += str(x) + ", "
-    return output[:-2]
+        output += str(x) + ","
+    return output[:-1]
 
 def writeData(outfile, parsed):
     outfile.write(parsed + "\n")
@@ -32,7 +32,7 @@ def main():
     f = open('json_class3.csv', 'w')
     start = datetime.datetime.now().time()
     x = 0
-    while (x < 32400):
+    while (x < 1800):
         data = getData()
         #print(data)
         parsed=parseData(data)

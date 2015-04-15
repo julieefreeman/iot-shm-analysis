@@ -1,0 +1,7259 @@
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057244
+reading_type: 0
+mag:  101
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057244
+reading_type: 0
+mag:  121
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057245
+reading_type: 0
+mag:  84
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057245
+reading_type: 0
+mag:  98
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057245
+reading_type: 0
+mag:  120
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057246
+reading_type: 0
+mag:  84
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057246
+reading_type: 0
+mag:  107
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057246
+reading_type: 0
+mag:  122
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057247
+reading_type: 0
+mag:  90
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057247
+reading_type: 0
+mag:  100
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057247
+reading_type: 0
+mag:  125
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057248
+reading_type: 0
+mag:  91
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057248
+reading_type: 0
+mag:  94
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057248
+reading_type: 0
+mag:  113
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057249
+reading_type: 0
+mag:  81
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057249
+reading_type: 0
+mag:  97
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057249
+reading_type: 0
+mag:  119
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057250
+reading_type: 0
+mag:  93
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057250
+reading_type: 0
+mag:  98
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057250
+reading_type: 0
+mag:  116
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057251
+reading_type: 0
+mag:  98
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057251
+reading_type: 0
+mag:  101
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057251
+reading_type: 0
+mag:  117
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057252
+reading_type: 0
+mag:  93
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057252
+reading_type: 0
+mag:  104
+healthy: True
+
+[0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057253
+reading_type: 0
+mag:  104
+healthy: False
+
+[0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057253
+reading_type: 0
+mag:  94
+healthy: False
+
+[0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057253
+reading_type: 0
+mag:  92
+healthy: False
+
+[0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 2
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057254
+reading_type: 0
+mag:  109
+healthy: True
+
+[0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 2
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057254
+reading_type: 0
+mag:  96
+healthy: False
+
+[0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 2
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057254
+reading_type: 0
+mag:  98
+healthy: False
+
+[0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 2
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057255
+reading_type: 0
+mag:  108
+healthy: False
+
+[0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 2
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057255
+reading_type: 0
+mag:  105
+healthy: False
+
+[0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 2
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057255
+reading_type: 0
+mag:  78
+healthy: False
+
+[0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 2
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057256
+reading_type: 0
+mag:  104
+healthy: False
+
+[0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 2
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057256
+reading_type: 0
+mag:  110
+healthy: False
+
+[0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 2
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057256
+reading_type: 0
+mag:  96
+healthy: False
+
+[0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 2
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057257
+reading_type: 0
+mag:  92
+healthy: False
+
+[0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 2
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057257
+reading_type: 0
+mag:  110
+healthy: False
+
+[0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 2
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057257
+reading_type: 0
+mag:  93
+healthy: False
+
+[0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 2
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057258
+reading_type: 0
+mag:  87
+healthy: False
+
+[0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 3
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057258
+reading_type: 0
+mag:  116
+healthy: True
+
+[0, 1, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 3
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057259
+reading_type: 0
+mag:  93
+healthy: False
+
+[0, 1, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 3
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057259
+reading_type: 0
+mag:  91
+healthy: False
+
+[0, 1, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 2
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057259
+reading_type: 0
+mag:  107
+healthy: False
+
+[0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 2
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057260
+reading_type: 0
+mag:  78
+healthy: False
+
+[0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 2
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057260
+reading_type: 0
+mag:  105
+healthy: False
+
+[0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 2
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057260
+reading_type: 0
+mag:  98
+healthy: False
+
+[0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057261
+reading_type: 0
+mag:  78
+healthy: False
+
+[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057261
+reading_type: 0
+mag:  97
+healthy: False
+
+[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057261
+reading_type: 0
+mag:  97
+healthy: False
+
+[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057262
+reading_type: 0
+mag:  72
+healthy: False
+
+[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057262
+reading_type: 0
+mag:  90
+healthy: False
+
+[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057262
+reading_type: 0
+mag:  113
+healthy: False
+
+[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057263
+reading_type: 0
+mag:  72
+healthy: False
+
+[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057263
+reading_type: 0
+mag:  81
+healthy: False
+
+[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057263
+reading_type: 0
+mag:  112
+healthy: False
+
+[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057264
+reading_type: 0
+mag:  74
+healthy: False
+
+[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057264
+reading_type: 0
+mag:  85
+healthy: False
+
+[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057264
+reading_type: 0
+mag:  106
+healthy: False
+
+[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057265
+reading_type: 0
+mag:  73
+healthy: False
+
+[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057265
+reading_type: 0
+mag:  88
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057265
+reading_type: 0
+mag:  118
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057266
+reading_type: 0
+mag:  77
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057266
+reading_type: 0
+mag:  95
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057266
+reading_type: 0
+mag:  124
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057267
+reading_type: 0
+mag:  70
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057267
+reading_type: 0
+mag:  91
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057267
+reading_type: 0
+mag:  118
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057268
+reading_type: 0
+mag:  88
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057268
+reading_type: 0
+mag:  96
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057268
+reading_type: 0
+mag:  127
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057269
+reading_type: 0
+mag:  69
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057269
+reading_type: 0
+mag:  89
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057269
+reading_type: 0
+mag:  147
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057270
+reading_type: 0
+mag:  65
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057270
+reading_type: 0
+mag:  102
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057270
+reading_type: 0
+mag:  140
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057271
+reading_type: 0
+mag:  67
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057271
+reading_type: 0
+mag:  99
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057271
+reading_type: 0
+mag:  134
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057272
+reading_type: 0
+mag:  71
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057272
+reading_type: 0
+mag:  94
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057272
+reading_type: 0
+mag:  133
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057273
+reading_type: 0
+mag:  67
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057273
+reading_type: 0
+mag:  97
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057273
+reading_type: 0
+mag:  141
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057274
+reading_type: 0
+mag:  69
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057274
+reading_type: 0
+mag:  105
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057274
+reading_type: 0
+mag:  131
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057275
+reading_type: 0
+mag:  71
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057275
+reading_type: 0
+mag:  102
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057275
+reading_type: 0
+mag:  136
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057276
+reading_type: 0
+mag:  88
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057276
+reading_type: 0
+mag:  111
+healthy: True
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057276
+reading_type: 0
+mag:  133
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057277
+reading_type: 0
+mag:  84
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 2
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057277
+reading_type: 0
+mag:  109
+healthy: True
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0]
+number of healthies in the past 20 reads: 2
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057277
+reading_type: 0
+mag:  134
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0]
+number of healthies in the past 20 reads: 2
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057278
+reading_type: 0
+mag:  98
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0]
+number of healthies in the past 20 reads: 2
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057278
+reading_type: 0
+mag:  116
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0]
+number of healthies in the past 20 reads: 2
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057278
+reading_type: 0
+mag:  133
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0]
+number of healthies in the past 20 reads: 2
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057279
+reading_type: 0
+mag:  92
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0]
+number of healthies in the past 20 reads: 2
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057279
+reading_type: 0
+mag:  117
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0]
+number of healthies in the past 20 reads: 2
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057279
+reading_type: 0
+mag:  131
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0]
+number of healthies in the past 20 reads: 2
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057280
+reading_type: 0
+mag:  90
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0]
+number of healthies in the past 20 reads: 2
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057280
+reading_type: 0
+mag:  140
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0]
+number of healthies in the past 20 reads: 2
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057281
+reading_type: 0
+mag:  140
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0]
+number of healthies in the past 20 reads: 2
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057281
+reading_type: 0
+mag:  108
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0]
+number of healthies in the past 20 reads: 2
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057281
+reading_type: 0
+mag:  131
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0]
+number of healthies in the past 20 reads: 2
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057282
+reading_type: 0
+mag:  132
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0]
+number of healthies in the past 20 reads: 2
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057282
+reading_type: 0
+mag:  110
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0]
+number of healthies in the past 20 reads: 2
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057282
+reading_type: 0
+mag:  133
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0]
+number of healthies in the past 20 reads: 2
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057283
+reading_type: 0
+mag:  134
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057283
+reading_type: 0
+mag:  107
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057283
+reading_type: 0
+mag:  129
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057284
+reading_type: 0
+mag:  140
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057284
+reading_type: 0
+mag:  115
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057284
+reading_type: 0
+mag:  128
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057285
+reading_type: 0
+mag:  139
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057285
+reading_type: 0
+mag:  129
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057285
+reading_type: 0
+mag:  125
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057286
+reading_type: 0
+mag:  138
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057286
+reading_type: 0
+mag:  124
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057286
+reading_type: 0
+mag:  121
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057287
+reading_type: 0
+mag:  148
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057287
+reading_type: 0
+mag:  125
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057287
+reading_type: 0
+mag:  118
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057288
+reading_type: 0
+mag:  133
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057288
+reading_type: 0
+mag:  143
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057288
+reading_type: 0
+mag:  110
+healthy: True
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057289
+reading_type: 0
+mag:  142
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057289
+reading_type: 0
+mag:  146
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057289
+reading_type: 0
+mag:  107
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057290
+reading_type: 0
+mag:  137
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057290
+reading_type: 0
+mag:  144
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057291
+reading_type: 0
+mag:  108
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057291
+reading_type: 0
+mag:  137
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057291
+reading_type: 0
+mag:  146
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057292
+reading_type: 0
+mag:  105
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057292
+reading_type: 0
+mag:  143
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057292
+reading_type: 0
+mag:  138
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057293
+reading_type: 0
+mag:  97
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057293
+reading_type: 0
+mag:  139
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057293
+reading_type: 0
+mag:  135
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057294
+reading_type: 0
+mag:  90
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057294
+reading_type: 0
+mag:  139
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057294
+reading_type: 0
+mag:  137
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057295
+reading_type: 0
+mag:  92
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057295
+reading_type: 0
+mag:  146
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057295
+reading_type: 0
+mag:  142
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057296
+reading_type: 0
+mag:  96
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057296
+reading_type: 0
+mag:  144
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057297
+reading_type: 0
+mag:  135
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057297
+reading_type: 0
+mag:  96
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057297
+reading_type: 0
+mag:  146
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057298
+reading_type: 0
+mag:  128
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057298
+reading_type: 0
+mag:  80
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057298
+reading_type: 0
+mag:  145
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057299
+reading_type: 0
+mag:  128
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057299
+reading_type: 0
+mag:  87
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057299
+reading_type: 0
+mag:  151
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057300
+reading_type: 0
+mag:  124
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057300
+reading_type: 0
+mag:  94
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057300
+reading_type: 0
+mag:  141
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057301
+reading_type: 0
+mag:  107
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057301
+reading_type: 0
+mag:  97
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057301
+reading_type: 0
+mag:  131
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057302
+reading_type: 0
+mag:  97
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057302
+reading_type: 0
+mag:  97
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057302
+reading_type: 0
+mag:  127
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057303
+reading_type: 0
+mag:  92
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057303
+reading_type: 0
+mag:  100
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057303
+reading_type: 0
+mag:  122
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057304
+reading_type: 0
+mag:  85
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057304
+reading_type: 0
+mag:  106
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057304
+reading_type: 0
+mag:  119
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057305
+reading_type: 0
+mag:  82
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057305
+reading_type: 0
+mag:  112
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057305
+reading_type: 0
+mag:  114
+healthy: True
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057306
+reading_type: 0
+mag:  61
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057306
+reading_type: 0
+mag:  117
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057306
+reading_type: 0
+mag:  110
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057307
+reading_type: 0
+mag:  68
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057307
+reading_type: 0
+mag:  122
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057307
+reading_type: 0
+mag:  109
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057308
+reading_type: 0
+mag:  70
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057308
+reading_type: 0
+mag:  134
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057308
+reading_type: 0
+mag:  106
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057309
+reading_type: 0
+mag:  65
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057309
+reading_type: 0
+mag:  131
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057309
+reading_type: 0
+mag:  112
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057310
+reading_type: 0
+mag:  61
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057310
+reading_type: 0
+mag:  136
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057310
+reading_type: 0
+mag:  101
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057311
+reading_type: 0
+mag:  76
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057311
+reading_type: 0
+mag:  139
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057311
+reading_type: 0
+mag:  101
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057312
+reading_type: 0
+mag:  72
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057312
+reading_type: 0
+mag:  128
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057312
+reading_type: 0
+mag:  106
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057313
+reading_type: 0
+mag:  81
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057313
+reading_type: 0
+mag:  125
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057313
+reading_type: 0
+mag:  104
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057314
+reading_type: 0
+mag:  85
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057314
+reading_type: 0
+mag:  121
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057314
+reading_type: 0
+mag:  94
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057315
+reading_type: 0
+mag:  85
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057315
+reading_type: 0
+mag:  108
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057315
+reading_type: 0
+mag:  87
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057316
+reading_type: 0
+mag:  111
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057316
+reading_type: 0
+mag:  100
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057316
+reading_type: 0
+mag:  93
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057317
+reading_type: 0
+mag:  116
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057317
+reading_type: 0
+mag:  94
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057317
+reading_type: 0
+mag:  82
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057318
+reading_type: 0
+mag:  126
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057318
+reading_type: 0
+mag:  99
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057318
+reading_type: 0
+mag:  85
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057319
+reading_type: 0
+mag:  135
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057319
+reading_type: 0
+mag:  93
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057320
+reading_type: 0
+mag:  79
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057320
+reading_type: 0
+mag:  138
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057320
+reading_type: 0
+mag:  89
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057321
+reading_type: 0
+mag:  86
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057321
+reading_type: 0
+mag:  159
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057321
+reading_type: 0
+mag:  93
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057322
+reading_type: 0
+mag:  90
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057322
+reading_type: 0
+mag:  131
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057322
+reading_type: 0
+mag:  95
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057323
+reading_type: 0
+mag:  90
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057323
+reading_type: 0
+mag:  150
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057323
+reading_type: 0
+mag:  92
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057324
+reading_type: 0
+mag:  85
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057324
+reading_type: 0
+mag:  144
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057324
+reading_type: 0
+mag:  94
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057325
+reading_type: 0
+mag:  79
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057325
+reading_type: 0
+mag:  124
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057325
+reading_type: 0
+mag:  98
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057326
+reading_type: 0
+mag:  83
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057326
+reading_type: 0
+mag:  116
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057326
+reading_type: 0
+mag:  111
+healthy: True
+
+[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057327
+reading_type: 0
+mag:  86
+healthy: False
+
+[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057327
+reading_type: 0
+mag:  94
+healthy: False
+
+[0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 2
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057327
+reading_type: 0
+mag:  111
+healthy: True
+
+[0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 2
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057328
+reading_type: 0
+mag:  88
+healthy: False
+
+[0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 2
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057328
+reading_type: 0
+mag:  85
+healthy: False
+
+[0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 2
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057328
+reading_type: 0
+mag:  112
+healthy: False
+
+[0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 2
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057329
+reading_type: 0
+mag:  78
+healthy: False
+
+[0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 2
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057329
+reading_type: 0
+mag:  85
+healthy: False
+
+[0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 2
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057330
+reading_type: 0
+mag:  123
+healthy: False
+
+[0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 2
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057330
+reading_type: 0
+mag:  85
+healthy: False
+
+[0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 2
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057330
+reading_type: 0
+mag:  70
+healthy: False
+
+[0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 2
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057331
+reading_type: 0
+mag:  126
+healthy: False
+
+[0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 2
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057331
+reading_type: 0
+mag:  89
+healthy: False
+
+[0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 2
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057331
+reading_type: 0
+mag:  67
+healthy: False
+
+[0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 2
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057332
+reading_type: 0
+mag:  132
+healthy: False
+
+[0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 2
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057332
+reading_type: 0
+mag:  91
+healthy: False
+
+[0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 2
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057332
+reading_type: 0
+mag:  69
+healthy: False
+
+[0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 2
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057333
+reading_type: 0
+mag:  133
+healthy: False
+
+[0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 2
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057333
+reading_type: 0
+mag:  85
+healthy: False
+
+[0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057333
+reading_type: 0
+mag:  70
+healthy: False
+
+[0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057334
+reading_type: 0
+mag:  130
+healthy: False
+
+[0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057334
+reading_type: 0
+mag:  88
+healthy: False
+
+[0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057335
+reading_type: 0
+mag:  74
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057335
+reading_type: 0
+mag:  123
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057335
+reading_type: 0
+mag:  82
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057336
+reading_type: 0
+mag:  71
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057336
+reading_type: 0
+mag:  113
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057336
+reading_type: 0
+mag:  90
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057337
+reading_type: 0
+mag:  83
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057337
+reading_type: 0
+mag:  114
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057337
+reading_type: 0
+mag:  94
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057338
+reading_type: 0
+mag:  78
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057338
+reading_type: 0
+mag:  108
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057338
+reading_type: 0
+mag:  96
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057339
+reading_type: 0
+mag:  95
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057339
+reading_type: 0
+mag:  107
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057339
+reading_type: 0
+mag:  90
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057340
+reading_type: 0
+mag:  85
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057340
+reading_type: 0
+mag:  98
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057340
+reading_type: 0
+mag:  95
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057341
+reading_type: 0
+mag:  102
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057341
+reading_type: 0
+mag:  91
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057341
+reading_type: 0
+mag:  98
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057342
+reading_type: 0
+mag:  108
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057342
+reading_type: 0
+mag:  87
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057342
+reading_type: 0
+mag:  105
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057343
+reading_type: 0
+mag:  120
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057343
+reading_type: 0
+mag:  94
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057343
+reading_type: 0
+mag:  106
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057344
+reading_type: 0
+mag:  137
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057344
+reading_type: 0
+mag:  83
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057344
+reading_type: 0
+mag:  97
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057345
+reading_type: 0
+mag:  142
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057345
+reading_type: 0
+mag:  99
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057345
+reading_type: 0
+mag:  100
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057346
+reading_type: 0
+mag:  140
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057346
+reading_type: 0
+mag:  95
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057346
+reading_type: 0
+mag:  121
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057347
+reading_type: 0
+mag:  144
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057347
+reading_type: 0
+mag:  116
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057347
+reading_type: 0
+mag:  128
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057348
+reading_type: 0
+mag:  137
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057348
+reading_type: 0
+mag:  113
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057348
+reading_type: 0
+mag:  142
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057349
+reading_type: 0
+mag:  138
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057349
+reading_type: 0
+mag:  122
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057349
+reading_type: 0
+mag:  146
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057350
+reading_type: 0
+mag:  125
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057350
+reading_type: 0
+mag:  122
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057350
+reading_type: 0
+mag:  150
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057351
+reading_type: 0
+mag:  110
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057351
+reading_type: 0
+mag:  132
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057351
+reading_type: 0
+mag:  154
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057352
+reading_type: 0
+mag:  99
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057352
+reading_type: 0
+mag:  132
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057352
+reading_type: 0
+mag:  161
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057353
+reading_type: 0
+mag:  76
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057353
+reading_type: 0
+mag:  126
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057353
+reading_type: 0
+mag:  160
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057354
+reading_type: 0
+mag:  72
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057354
+reading_type: 0
+mag:  117
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057354
+reading_type: 0
+mag:  163
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057355
+reading_type: 0
+mag:  66
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057355
+reading_type: 0
+mag:  103
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057355
+reading_type: 0
+mag:  159
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057356
+reading_type: 0
+mag:  71
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057356
+reading_type: 0
+mag:  116
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057356
+reading_type: 0
+mag:  152
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057357
+reading_type: 0
+mag:  65
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057357
+reading_type: 0
+mag:  99
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057357
+reading_type: 0
+mag:  162
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057358
+reading_type: 0
+mag:  69
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057358
+reading_type: 0
+mag:  90
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057358
+reading_type: 0
+mag:  155
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057359
+reading_type: 0
+mag:  82
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057359
+reading_type: 0
+mag:  85
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057360
+reading_type: 0
+mag:  153
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057360
+reading_type: 0
+mag:  77
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057360
+reading_type: 0
+mag:  84
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057361
+reading_type: 0
+mag:  152
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057361
+reading_type: 0
+mag:  86
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057361
+reading_type: 0
+mag:  91
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057362
+reading_type: 0
+mag:  148
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057362
+reading_type: 0
+mag:  105
+healthy: True
+
+[0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057362
+reading_type: 0
+mag:  88
+healthy: False
+
+[0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057363
+reading_type: 0
+mag:  134
+healthy: False
+
+[0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057363
+reading_type: 0
+mag:  109
+healthy: False
+
+[0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057363
+reading_type: 0
+mag:  103
+healthy: False
+
+[0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057364
+reading_type: 0
+mag:  135
+healthy: False
+
+[0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057364
+reading_type: 0
+mag:  124
+healthy: False
+
+[0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057364
+reading_type: 0
+mag:  101
+healthy: False
+
+[0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057365
+reading_type: 0
+mag:  109
+healthy: False
+
+[0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057365
+reading_type: 0
+mag:  137
+healthy: False
+
+[0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057365
+reading_type: 0
+mag:  112
+healthy: False
+
+[0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057366
+reading_type: 0
+mag:  105
+healthy: False
+
+[0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057366
+reading_type: 0
+mag:  141
+healthy: False
+
+[0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057366
+reading_type: 0
+mag:  116
+healthy: False
+
+[0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057367
+reading_type: 0
+mag:  98
+healthy: False
+
+[0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057367
+reading_type: 0
+mag:  143
+healthy: False
+
+[0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057368
+reading_type: 0
+mag:  124
+healthy: False
+
+[0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057368
+reading_type: 0
+mag:  93
+healthy: False
+
+[0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057368
+reading_type: 0
+mag:  141
+healthy: False
+
+[0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057369
+reading_type: 0
+mag:  131
+healthy: False
+
+[0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057369
+reading_type: 0
+mag:  88
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057369
+reading_type: 0
+mag:  138
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057370
+reading_type: 0
+mag:  132
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057370
+reading_type: 0
+mag:  89
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057370
+reading_type: 0
+mag:  137
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057371
+reading_type: 0
+mag:  126
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057371
+reading_type: 0
+mag:  76
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057371
+reading_type: 0
+mag:  116
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057372
+reading_type: 0
+mag:  112
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057372
+reading_type: 0
+mag:  82
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057372
+reading_type: 0
+mag:  98
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057373
+reading_type: 0
+mag:  111
+healthy: True
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057373
+reading_type: 0
+mag:  77
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057374
+reading_type: 0
+mag:  86
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057374
+reading_type: 0
+mag:  98
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057374
+reading_type: 0
+mag:  91
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057375
+reading_type: 0
+mag:  61
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057375
+reading_type: 0
+mag:  83
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057375
+reading_type: 0
+mag:  83
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057376
+reading_type: 0
+mag:  71
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057376
+reading_type: 0
+mag:  87
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057376
+reading_type: 0
+mag:  89
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057377
+reading_type: 0
+mag:  63
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057377
+reading_type: 0
+mag:  95
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057377
+reading_type: 0
+mag:  83
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057378
+reading_type: 0
+mag:  64
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057378
+reading_type: 0
+mag:  93
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057378
+reading_type: 0
+mag:  89
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057379
+reading_type: 0
+mag:  82
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057379
+reading_type: 0
+mag:  100
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057379
+reading_type: 0
+mag:  87
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057380
+reading_type: 0
+mag:  77
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057380
+reading_type: 0
+mag:  103
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057380
+reading_type: 0
+mag:  91
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057381
+reading_type: 0
+mag:  87
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057381
+reading_type: 0
+mag:  108
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057381
+reading_type: 0
+mag:  93
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057382
+reading_type: 0
+mag:  100
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057382
+reading_type: 0
+mag:  110
+healthy: True
+
+[0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057382
+reading_type: 0
+mag:  102
+healthy: False
+
+[0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057383
+reading_type: 0
+mag:  130
+healthy: False
+
+[0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057383
+reading_type: 0
+mag:  124
+healthy: False
+
+[0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057383
+reading_type: 0
+mag:  111
+healthy: False
+
+[0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057384
+reading_type: 0
+mag:  109
+healthy: False
+
+[0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057384
+reading_type: 0
+mag:  123
+healthy: False
+
+[0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 2
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057384
+reading_type: 0
+mag:  115
+healthy: True
+
+[0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 2
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057385
+reading_type: 0
+mag:  136
+healthy: False
+
+[0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 2
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057385
+reading_type: 0
+mag:  124
+healthy: False
+
+[0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 2
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057385
+reading_type: 0
+mag:  112
+healthy: False
+
+[0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 2
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057386
+reading_type: 0
+mag:  139
+healthy: False
+
+[0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 2
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057386
+reading_type: 0
+mag:  134
+healthy: False
+
+[0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 2
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057386
+reading_type: 0
+mag:  135
+healthy: False
+
+[0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 2
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057387
+reading_type: 0
+mag:  143
+healthy: False
+
+[0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 2
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057387
+reading_type: 0
+mag:  130
+healthy: False
+
+[0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 2
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057387
+reading_type: 0
+mag:  147
+healthy: False
+
+[0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 2
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057388
+reading_type: 0
+mag:  154
+healthy: False
+
+[0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 2
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057388
+reading_type: 0
+mag:  120
+healthy: False
+
+[0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 2
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057388
+reading_type: 0
+mag:  141
+healthy: False
+
+[0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057389
+reading_type: 0
+mag:  144
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057389
+reading_type: 0
+mag:  118
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057389
+reading_type: 0
+mag:  140
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057390
+reading_type: 0
+mag:  128
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057390
+reading_type: 0
+mag:  108
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057390
+reading_type: 0
+mag:  158
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057391
+reading_type: 0
+mag:  116
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057391
+reading_type: 0
+mag:  102
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057391
+reading_type: 0
+mag:  168
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057392
+reading_type: 0
+mag:  101
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057392
+reading_type: 0
+mag:  89
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057392
+reading_type: 0
+mag:  167
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057393
+reading_type: 0
+mag:  83
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057393
+reading_type: 0
+mag:  92
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057393
+reading_type: 0
+mag:  153
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057394
+reading_type: 0
+mag:  69
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057394
+reading_type: 0
+mag:  98
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057394
+reading_type: 0
+mag:  150
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057395
+reading_type: 0
+mag:  67
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057395
+reading_type: 0
+mag:  97
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057395
+reading_type: 0
+mag:  134
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057396
+reading_type: 0
+mag:  71
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057396
+reading_type: 0
+mag:  108
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057396
+reading_type: 0
+mag:  131
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057397
+reading_type: 0
+mag:  93
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057397
+reading_type: 0
+mag:  106
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057397
+reading_type: 0
+mag:  119
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057398
+reading_type: 0
+mag:  84
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057398
+reading_type: 0
+mag:  114
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057399
+reading_type: 0
+mag:  113
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057399
+reading_type: 0
+mag:  103
+healthy: True
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057399
+reading_type: 0
+mag:  121
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057400
+reading_type: 0
+mag:  95
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057400
+reading_type: 0
+mag:  111
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057400
+reading_type: 0
+mag:  131
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057401
+reading_type: 0
+mag:  94
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057401
+reading_type: 0
+mag:  119
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057401
+reading_type: 0
+mag:  129
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057402
+reading_type: 0
+mag:  86
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057402
+reading_type: 0
+mag:  126
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057402
+reading_type: 0
+mag:  134
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057403
+reading_type: 0
+mag:  99
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057403
+reading_type: 0
+mag:  128
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057403
+reading_type: 0
+mag:  127
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057404
+reading_type: 0
+mag:  87
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057404
+reading_type: 0
+mag:  153
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057404
+reading_type: 0
+mag:  120
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057405
+reading_type: 0
+mag:  78
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057405
+reading_type: 0
+mag:  137
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057406
+reading_type: 0
+mag:  106
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057406
+reading_type: 0
+mag:  84
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057406
+reading_type: 0
+mag:  127
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057407
+reading_type: 0
+mag:  96
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057407
+reading_type: 0
+mag:  78
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057407
+reading_type: 0
+mag:  123
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057408
+reading_type: 0
+mag:  95
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057408
+reading_type: 0
+mag:  84
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057408
+reading_type: 0
+mag:  100
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057409
+reading_type: 0
+mag:  90
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057409
+reading_type: 0
+mag:  80
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057409
+reading_type: 0
+mag:  90
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057410
+reading_type: 0
+mag:  91
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057410
+reading_type: 0
+mag:  92
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057410
+reading_type: 0
+mag:  78
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057411
+reading_type: 0
+mag:  98
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057411
+reading_type: 0
+mag:  97
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057411
+reading_type: 0
+mag:  66
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057412
+reading_type: 0
+mag:  100
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057412
+reading_type: 0
+mag:  110
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057413
+reading_type: 0
+mag:  78
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057413
+reading_type: 0
+mag:  116
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057413
+reading_type: 0
+mag:  125
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057414
+reading_type: 0
+mag:  81
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057414
+reading_type: 0
+mag:  124
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057414
+reading_type: 0
+mag:  145
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057415
+reading_type: 0
+mag:  88
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057415
+reading_type: 0
+mag:  130
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057415
+reading_type: 0
+mag:  140
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057416
+reading_type: 0
+mag:  98
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057416
+reading_type: 0
+mag:  128
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057416
+reading_type: 0
+mag:  149
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057417
+reading_type: 0
+mag:  106
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057417
+reading_type: 0
+mag:  129
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057417
+reading_type: 0
+mag:  157
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057418
+reading_type: 0
+mag:  106
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057418
+reading_type: 0
+mag:  130
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057418
+reading_type: 0
+mag:  159
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057419
+reading_type: 0
+mag:  124
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057419
+reading_type: 0
+mag:  115
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057419
+reading_type: 0
+mag:  161
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057420
+reading_type: 0
+mag:  136
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057420
+reading_type: 0
+mag:  105
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057420
+reading_type: 0
+mag:  153
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057421
+reading_type: 0
+mag:  134
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057421
+reading_type: 0
+mag:  95
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057421
+reading_type: 0
+mag:  145
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057422
+reading_type: 0
+mag:  151
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057422
+reading_type: 0
+mag:  93
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057422
+reading_type: 0
+mag:  146
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057423
+reading_type: 0
+mag:  126
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057423
+reading_type: 0
+mag:  93
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057423
+reading_type: 0
+mag:  132
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057424
+reading_type: 0
+mag:  128
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057424
+reading_type: 0
+mag:  89
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057424
+reading_type: 0
+mag:  130
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057425
+reading_type: 0
+mag:  97
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057425
+reading_type: 0
+mag:  92
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057425
+reading_type: 0
+mag:  117
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057426
+reading_type: 0
+mag:  69
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057426
+reading_type: 0
+mag:  93
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057426
+reading_type: 0
+mag:  78
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057427
+reading_type: 0
+mag:  58
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057427
+reading_type: 0
+mag:  104
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057427
+reading_type: 0
+mag:  88
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057428
+reading_type: 0
+mag:  69
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057428
+reading_type: 0
+mag:  112
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057428
+reading_type: 0
+mag:  89
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057429
+reading_type: 0
+mag:  66
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057429
+reading_type: 0
+mag:  122
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057429
+reading_type: 0
+mag:  89
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057430
+reading_type: 0
+mag:  77
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057430
+reading_type: 0
+mag:  124
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057430
+reading_type: 0
+mag:  69
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057431
+reading_type: 0
+mag:  82
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057431
+reading_type: 0
+mag:  138
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057431
+reading_type: 0
+mag:  76
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057432
+reading_type: 0
+mag:  103
+healthy: True
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057432
+reading_type: 0
+mag:  120
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057432
+reading_type: 0
+mag:  84
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057433
+reading_type: 0
+mag:  93
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057433
+reading_type: 0
+mag:  125
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057433
+reading_type: 0
+mag:  99
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057434
+reading_type: 0
+mag:  116
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057434
+reading_type: 0
+mag:  107
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057434
+reading_type: 0
+mag:  99
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057435
+reading_type: 0
+mag:  142
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057435
+reading_type: 0
+mag:  95
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057435
+reading_type: 0
+mag:  97
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057436
+reading_type: 0
+mag:  137
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057436
+reading_type: 0
+mag:  88
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057436
+reading_type: 0
+mag:  93
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057437
+reading_type: 0
+mag:  145
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057437
+reading_type: 0
+mag:  82
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057437
+reading_type: 0
+mag:  108
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057438
+reading_type: 0
+mag:  124
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057438
+reading_type: 0
+mag:  91
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057439
+reading_type: 0
+mag:  119
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057439
+reading_type: 0
+mag:  123
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057439
+reading_type: 0
+mag:  97
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057440
+reading_type: 0
+mag:  139
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057440
+reading_type: 0
+mag:  106
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057440
+reading_type: 0
+mag:  100
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057441
+reading_type: 0
+mag:  152
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057441
+reading_type: 0
+mag:  87
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057441
+reading_type: 0
+mag:  105
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057442
+reading_type: 0
+mag:  152
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057442
+reading_type: 0
+mag:  80
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057442
+reading_type: 0
+mag:  112
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057443
+reading_type: 0
+mag:  156
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057443
+reading_type: 0
+mag:  76
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057444
+reading_type: 0
+mag:  123
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057444
+reading_type: 0
+mag:  171
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057444
+reading_type: 0
+mag:  64
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057445
+reading_type: 0
+mag:  137
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057445
+reading_type: 0
+mag:  173
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057445
+reading_type: 0
+mag:  81
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057446
+reading_type: 0
+mag:  128
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057446
+reading_type: 0
+mag:  171
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057446
+reading_type: 0
+mag:  57
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057447
+reading_type: 0
+mag:  123
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057447
+reading_type: 0
+mag:  170
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057447
+reading_type: 0
+mag:  81
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057448
+reading_type: 0
+mag:  123
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057448
+reading_type: 0
+mag:  150
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057448
+reading_type: 0
+mag:  90
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057449
+reading_type: 0
+mag:  121
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057449
+reading_type: 0
+mag:  134
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057449
+reading_type: 0
+mag:  111
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057450
+reading_type: 0
+mag:  104
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057450
+reading_type: 0
+mag:  123
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057451
+reading_type: 0
+mag:  136
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057451
+reading_type: 0
+mag:  98
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057451
+reading_type: 0
+mag:  120
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057452
+reading_type: 0
+mag:  137
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057452
+reading_type: 0
+mag:  95
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057452
+reading_type: 0
+mag:  100
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057453
+reading_type: 0
+mag:  137
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057453
+reading_type: 0
+mag:  88
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057453
+reading_type: 0
+mag:  78
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057454
+reading_type: 0
+mag:  156
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057454
+reading_type: 0
+mag:  90
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057454
+reading_type: 0
+mag:  73
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057455
+reading_type: 0
+mag:  134
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057455
+reading_type: 0
+mag:  93
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057455
+reading_type: 0
+mag:  83
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057456
+reading_type: 0
+mag:  136
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057456
+reading_type: 0
+mag:  102
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057456
+reading_type: 0
+mag:  86
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057457
+reading_type: 0
+mag:  123
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057457
+reading_type: 0
+mag:  106
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057457
+reading_type: 0
+mag:  84
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057458
+reading_type: 0
+mag:  86
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057458
+reading_type: 0
+mag:  122
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057458
+reading_type: 0
+mag:  80
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057459
+reading_type: 0
+mag:  85
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057459
+reading_type: 0
+mag:  128
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057459
+reading_type: 0
+mag:  76
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057460
+reading_type: 0
+mag:  68
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057460
+reading_type: 0
+mag:  132
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057460
+reading_type: 0
+mag:  74
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057461
+reading_type: 0
+mag:  67
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057461
+reading_type: 0
+mag:  129
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057461
+reading_type: 0
+mag:  84
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057462
+reading_type: 0
+mag:  67
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057462
+reading_type: 0
+mag:  125
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057462
+reading_type: 0
+mag:  85
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057463
+reading_type: 0
+mag:  58
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057463
+reading_type: 0
+mag:  124
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057463
+reading_type: 0
+mag:  79
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057464
+reading_type: 0
+mag:  77
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057464
+reading_type: 0
+mag:  124
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057464
+reading_type: 0
+mag:  87
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057465
+reading_type: 0
+mag:  70
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057465
+reading_type: 0
+mag:  111
+healthy: True
+
+[0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057465
+reading_type: 0
+mag:  91
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057466
+reading_type: 0
+mag:  89
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057466
+reading_type: 0
+mag:  99
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057466
+reading_type: 0
+mag:  101
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057467
+reading_type: 0
+mag:  109
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057467
+reading_type: 0
+mag:  91
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057467
+reading_type: 0
+mag:  110
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057468
+reading_type: 0
+mag:  119
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057468
+reading_type: 0
+mag:  90
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057468
+reading_type: 0
+mag:  121
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057469
+reading_type: 0
+mag:  146
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057469
+reading_type: 0
+mag:  83
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057469
+reading_type: 0
+mag:  134
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057470
+reading_type: 0
+mag:  137
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057470
+reading_type: 0
+mag:  96
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057470
+reading_type: 0
+mag:  163
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057471
+reading_type: 0
+mag:  145
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057471
+reading_type: 0
+mag:  95
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057471
+reading_type: 0
+mag:  160
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057472
+reading_type: 0
+mag:  149
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057472
+reading_type: 0
+mag:  105
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057472
+reading_type: 0
+mag:  174
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057473
+reading_type: 0
+mag:  139
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057473
+reading_type: 0
+mag:  109
+healthy: True
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057473
+reading_type: 0
+mag:  164
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057474
+reading_type: 0
+mag:  111
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057474
+reading_type: 0
+mag:  126
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057474
+reading_type: 0
+mag:  171
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057475
+reading_type: 0
+mag:  109
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057475
+reading_type: 0
+mag:  140
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057475
+reading_type: 0
+mag:  160
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057476
+reading_type: 0
+mag:  91
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057476
+reading_type: 0
+mag:  134
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057476
+reading_type: 0
+mag:  154
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057477
+reading_type: 0
+mag:  78
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057477
+reading_type: 0
+mag:  127
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057478
+reading_type: 0
+mag:  155
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057478
+reading_type: 0
+mag:  69
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057478
+reading_type: 0
+mag:  115
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057479
+reading_type: 0
+mag:  135
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057479
+reading_type: 0
+mag:  35
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057479
+reading_type: 0
+mag:  105
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057480
+reading_type: 0
+mag:  120
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057480
+reading_type: 0
+mag:  65
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057480
+reading_type: 0
+mag:  98
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057481
+reading_type: 0
+mag:  109
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057481
+reading_type: 0
+mag:  65
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057482
+reading_type: 0
+mag:  93
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057482
+reading_type: 0
+mag:  87
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057482
+reading_type: 0
+mag:  70
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057483
+reading_type: 0
+mag:  83
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057483
+reading_type: 0
+mag:  86
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057483
+reading_type: 0
+mag:  107
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057484
+reading_type: 0
+mag:  94
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057484
+reading_type: 0
+mag:  87
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057484
+reading_type: 0
+mag:  116
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057485
+reading_type: 0
+mag:  93
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057485
+reading_type: 0
+mag:  77
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057485
+reading_type: 0
+mag:  137
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057486
+reading_type: 0
+mag:  109
+healthy: True
+
+[0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057486
+reading_type: 0
+mag:  76
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057486
+reading_type: 0
+mag:  137
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057487
+reading_type: 0
+mag:  108
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057487
+reading_type: 0
+mag:  67
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057487
+reading_type: 0
+mag:  146
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057488
+reading_type: 0
+mag:  118
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057488
+reading_type: 0
+mag:  70
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057489
+reading_type: 0
+mag:  152
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057489
+reading_type: 0
+mag:  115
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057489
+reading_type: 0
+mag:  81
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057490
+reading_type: 0
+mag:  132
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057490
+reading_type: 0
+mag:  128
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057490
+reading_type: 0
+mag:  89
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057491
+reading_type: 0
+mag:  123
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057491
+reading_type: 0
+mag:  142
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057491
+reading_type: 0
+mag:  92
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057492
+reading_type: 0
+mag:  112
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057492
+reading_type: 0
+mag:  126
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057492
+reading_type: 0
+mag:  85
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057493
+reading_type: 0
+mag:  98
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057493
+reading_type: 0
+mag:  121
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057493
+reading_type: 0
+mag:  91
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057494
+reading_type: 0
+mag:  84
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057494
+reading_type: 0
+mag:  114
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057494
+reading_type: 0
+mag:  94
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057495
+reading_type: 0
+mag:  77
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057495
+reading_type: 0
+mag:  102
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057495
+reading_type: 0
+mag:  117
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057496
+reading_type: 0
+mag:  54
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057496
+reading_type: 0
+mag:  81
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057496
+reading_type: 0
+mag:  134
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057497
+reading_type: 0
+mag:  64
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057497
+reading_type: 0
+mag:  85
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057497
+reading_type: 0
+mag:  151
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057498
+reading_type: 0
+mag:  77
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057498
+reading_type: 0
+mag:  86
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057498
+reading_type: 0
+mag:  156
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057499
+reading_type: 0
+mag:  96
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057499
+reading_type: 0
+mag:  97
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057499
+reading_type: 0
+mag:  168
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057500
+reading_type: 0
+mag:  101
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057500
+reading_type: 0
+mag:  95
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057501
+reading_type: 0
+mag:  99
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057501
+reading_type: 0
+mag:  110
+healthy: True
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057502
+reading_type: 0
+mag:  124
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057502
+reading_type: 0
+mag:  112
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057502
+reading_type: 0
+mag:  175
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057503
+reading_type: 0
+mag:  137
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057503
+reading_type: 0
+mag:  123
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057503
+reading_type: 0
+mag:  177
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057504
+reading_type: 0
+mag:  128
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057504
+reading_type: 0
+mag:  126
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057504
+reading_type: 0
+mag:  160
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057505
+reading_type: 0
+mag:  150
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057505
+reading_type: 0
+mag:  142
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057505
+reading_type: 0
+mag:  163
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057506
+reading_type: 0
+mag:  143
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057506
+reading_type: 0
+mag:  132
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057506
+reading_type: 0
+mag:  155
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057507
+reading_type: 0
+mag:  145
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057507
+reading_type: 0
+mag:  138
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057507
+reading_type: 0
+mag:  164
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057508
+reading_type: 0
+mag:  136
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057508
+reading_type: 0
+mag:  129
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057508
+reading_type: 0
+mag:  140
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057509
+reading_type: 0
+mag:  141
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057509
+reading_type: 0
+mag:  117
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057509
+reading_type: 0
+mag:  150
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057510
+reading_type: 0
+mag:  127
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057510
+reading_type: 0
+mag:  115
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057510
+reading_type: 0
+mag:  139
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057511
+reading_type: 0
+mag:  134
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057511
+reading_type: 0
+mag:  103
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057511
+reading_type: 0
+mag:  144
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057512
+reading_type: 0
+mag:  109
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057512
+reading_type: 0
+mag:  94
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057512
+reading_type: 0
+mag:  137
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057513
+reading_type: 0
+mag:  104
+healthy: True
+
+[0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057513
+reading_type: 0
+mag:  97
+healthy: False
+
+[0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057513
+reading_type: 0
+mag:  138
+healthy: False
+
+[0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057514
+reading_type: 0
+mag:  102
+healthy: False
+
+[0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057514
+reading_type: 0
+mag:  89
+healthy: False
+
+[0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057514
+reading_type: 0
+mag:  132
+healthy: False
+
+[0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057515
+reading_type: 0
+mag:  89
+healthy: False
+
+[0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057515
+reading_type: 0
+mag:  85
+healthy: False
+
+[0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057515
+reading_type: 0
+mag:  125
+healthy: False
+
+[0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057516
+reading_type: 0
+mag:  80
+healthy: False
+
+[0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057516
+reading_type: 0
+mag:  94
+healthy: False
+
+[0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057517
+reading_type: 0
+mag:  100
+healthy: False
+
+[0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057517
+reading_type: 0
+mag:  84
+healthy: False
+
+[0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057517
+reading_type: 0
+mag:  94
+healthy: False
+
+[0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057518
+reading_type: 0
+mag:  89
+healthy: False
+
+[0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057518
+reading_type: 0
+mag:  58
+healthy: False
+
+[0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057519
+reading_type: 0
+mag:  93
+healthy: False
+
+[0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057519
+reading_type: 0
+mag:  102
+healthy: False
+
+[0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057519
+reading_type: 0
+mag:  67
+healthy: False
+
+[0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057520
+reading_type: 0
+mag:  114
+healthy: False
+
+[0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057520
+reading_type: 0
+mag:  90
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057520
+reading_type: 0
+mag:  73
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057521
+reading_type: 0
+mag:  107
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057521
+reading_type: 0
+mag:  80
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057521
+reading_type: 0
+mag:  76
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057522
+reading_type: 0
+mag:  126
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057522
+reading_type: 0
+mag:  74
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057522
+reading_type: 0
+mag:  92
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057523
+reading_type: 0
+mag:  116
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057523
+reading_type: 0
+mag:  80
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057523
+reading_type: 0
+mag:  94
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057524
+reading_type: 0
+mag:  127
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057524
+reading_type: 0
+mag:  70
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057524
+reading_type: 0
+mag:  89
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057525
+reading_type: 0
+mag:  118
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057525
+reading_type: 0
+mag:  93
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057525
+reading_type: 0
+mag:  113
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057526
+reading_type: 0
+mag:  126
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057526
+reading_type: 0
+mag:  94
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057526
+reading_type: 0
+mag:  112
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057527
+reading_type: 0
+mag:  114
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057527
+reading_type: 0
+mag:  96
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057528
+reading_type: 0
+mag:  133
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057528
+reading_type: 0
+mag:  114
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057528
+reading_type: 0
+mag:  81
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057529
+reading_type: 0
+mag:  144
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057529
+reading_type: 0
+mag:  100
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057529
+reading_type: 0
+mag:  86
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057530
+reading_type: 0
+mag:  127
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057530
+reading_type: 0
+mag:  100
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057530
+reading_type: 0
+mag:  87
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057531
+reading_type: 0
+mag:  121
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057531
+reading_type: 0
+mag:  103
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057531
+reading_type: 0
+mag:  91
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057532
+reading_type: 0
+mag:  137
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057532
+reading_type: 0
+mag:  98
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057532
+reading_type: 0
+mag:  87
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057533
+reading_type: 0
+mag:  137
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057533
+reading_type: 0
+mag:  91
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057533
+reading_type: 0
+mag:  82
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057534
+reading_type: 0
+mag:  137
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057534
+reading_type: 0
+mag:  97
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057534
+reading_type: 0
+mag:  89
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057535
+reading_type: 0
+mag:  126
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057535
+reading_type: 0
+mag:  96
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057535
+reading_type: 0
+mag:  89
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057536
+reading_type: 0
+mag:  113
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057536
+reading_type: 0
+mag:  91
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057536
+reading_type: 0
+mag:  101
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057537
+reading_type: 0
+mag:  106
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057537
+reading_type: 0
+mag:  102
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057537
+reading_type: 0
+mag:  105
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057538
+reading_type: 0
+mag:  99
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057538
+reading_type: 0
+mag:  105
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057538
+reading_type: 0
+mag:  103
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057539
+reading_type: 0
+mag:  110
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057539
+reading_type: 0
+mag:  106
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057539
+reading_type: 0
+mag:  101
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057540
+reading_type: 0
+mag:  70
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057540
+reading_type: 0
+mag:  110
+healthy: True
+
+[0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057540
+reading_type: 0
+mag:  109
+healthy: False
+
+[0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057541
+reading_type: 0
+mag:  90
+healthy: False
+
+[0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057541
+reading_type: 0
+mag:  108
+healthy: False
+
+[0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057541
+reading_type: 0
+mag:  103
+healthy: False
+
+[0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057542
+reading_type: 0
+mag:  77
+healthy: False
+
+[0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057542
+reading_type: 0
+mag:  117
+healthy: False
+
+[0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057542
+reading_type: 0
+mag:  112
+healthy: False
+
+[0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057543
+reading_type: 0
+mag:  70
+healthy: False
+
+[0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057543
+reading_type: 0
+mag:  123
+healthy: False
+
+[0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057543
+reading_type: 0
+mag:  112
+healthy: False
+
+[0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057544
+reading_type: 0
+mag:  81
+healthy: False
+
+[0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057544
+reading_type: 0
+mag:  125
+healthy: False
+
+[0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 2
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057544
+reading_type: 0
+mag:  115
+healthy: True
+
+[0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0]
+number of healthies in the past 20 reads: 2
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057545
+reading_type: 0
+mag:  70
+healthy: False
+
+[0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0]
+number of healthies in the past 20 reads: 2
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057545
+reading_type: 0
+mag:  131
+healthy: False
+
+[0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0]
+number of healthies in the past 20 reads: 2
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057545
+reading_type: 0
+mag:  132
+healthy: False
+
+[0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0]
+number of healthies in the past 20 reads: 2
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057546
+reading_type: 0
+mag:  80
+healthy: False
+
+[0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0]
+number of healthies in the past 20 reads: 2
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057546
+reading_type: 0
+mag:  126
+healthy: False
+
+[0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0]
+number of healthies in the past 20 reads: 2
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057546
+reading_type: 0
+mag:  140
+healthy: False
+
+[0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057547
+reading_type: 0
+mag:  89
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057547
+reading_type: 0
+mag:  115
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057547
+reading_type: 0
+mag:  139
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057548
+reading_type: 0
+mag:  95
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0]
+number of healthies in the past 20 reads: 2
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057548
+reading_type: 0
+mag:  109
+healthy: True
+
+[0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0]
+number of healthies in the past 20 reads: 2
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057548
+reading_type: 0
+mag:  126
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0]
+number of healthies in the past 20 reads: 2
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057549
+reading_type: 0
+mag:  98
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0]
+number of healthies in the past 20 reads: 2
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057549
+reading_type: 0
+mag:  108
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0]
+number of healthies in the past 20 reads: 2
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057549
+reading_type: 0
+mag:  138
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0]
+number of healthies in the past 20 reads: 2
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057550
+reading_type: 0
+mag:  97
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0]
+number of healthies in the past 20 reads: 2
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057550
+reading_type: 0
+mag:  106
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0]
+number of healthies in the past 20 reads: 2
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057550
+reading_type: 0
+mag:  142
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0]
+number of healthies in the past 20 reads: 2
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057551
+reading_type: 0
+mag:  117
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057551
+reading_type: 0
+mag:  96
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057551
+reading_type: 0
+mag:  138
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057552
+reading_type: 0
+mag:  115
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057552
+reading_type: 0
+mag:  91
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057552
+reading_type: 0
+mag:  147
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057553
+reading_type: 0
+mag:  123
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057553
+reading_type: 0
+mag:  87
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057553
+reading_type: 0
+mag:  150
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-a1-ee-d3
+time: 1429057554
+reading_type: 0
+mag:  116
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-98-98-4f
+time: 1429057554
+reading_type: 0
+mag:  152
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 1
+sensor_id: 00-13-a2-00-40-a1-f1-43
+time: 1429057555
+reading_type: 0
+mag:  97
+healthy: False
+
+[0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+number of healthies in the past 20 reads: 0
+sensor_id: 00-13-a2-00-40-a1-ee
