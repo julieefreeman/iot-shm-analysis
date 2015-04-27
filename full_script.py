@@ -10,6 +10,7 @@ import mysql.connector
 from datetime import datetime
 
 import json
+import csv
 
 count = 0
 last20 = [0]*20
@@ -24,7 +25,7 @@ conn = mysql.connector.connect(user='iotshm', password='pa$$word',
 cursor = conn.cursor()
 
 #add_health = ("""INSERT IGNORE INTO iotshm.Health (sensor_id, timestamp, reading_type, healthy) VALUES (%s, %s, %s, %s)""")
-add_magnitude = ("""INSERT IGNORE INTO iotshm.Magnitude (sensor_id, timestamp, reading_type, healthy, magnitude) VALUES(%s, %s, %s, %s, %s)""")
+add_magnitude = ("""INSERT IGNORE INTO iotshm.MagnitudeV2 (sensor_id, timestamp, reading_type, healthy, magnitude) VALUES(%s, %s, %s, %s, %s)""")
 
 
 def getData():	
@@ -39,7 +40,7 @@ def analyzeData(data):
 	sensor_id = json_data['sensorId']
 	reading_type = json_data['readingType']
 
-	time = json_data['time']	
+	time = json_data['time']
 	mag = json_data['mag']
 	
   	filename = str(sensor_id) + "-0.pkl"
@@ -73,6 +74,5 @@ while (True):
 
 
 conn.close()
-
 
 

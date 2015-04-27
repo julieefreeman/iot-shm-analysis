@@ -28,7 +28,7 @@ def main():
     f = open('mag2classify.csv', 'w')
     start = datetime.datetime.now().time()
     x = 0
-    while (x < 32400):
+    while (x < 43200):
         data = getData()
         #print(data)
         parsed=parseData(data)
