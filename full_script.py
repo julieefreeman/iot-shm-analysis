@@ -52,11 +52,9 @@ def analyzeData(data):
 		healthy = False
 	
 	data_magnitude = (sensor_id, time, reading_type, healthy, mag)
-    	cursor.execute(add_magnitude, data_magnitude)
+    cursor.execute(add_magnitude, data_magnitude)
 
-        #data_health = (sensor_id, time, reading_type, not unhealthy)
-        #cursor.execute(add_health, data_health)
-    	print(last20) 
+    print(last20) 
    	conn.commit()
 	if(healthy):
 		last20[count%20] = 1
@@ -70,7 +68,7 @@ def analyzeData(data):
 
 while (True):
 	data = getData()
-    	print(analyzeData(data))
+    print(analyzeData(data))
 
 
 conn.close()
